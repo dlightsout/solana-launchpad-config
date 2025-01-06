@@ -1,0 +1,36 @@
+{
+  "offchainInfo": {
+    "name": "Agent sale",
+    "tokenName": "AGENT",
+    "saleTokenDecimals": 0,
+    "preSaleStartDate": "2025-01-06T04:35:36.905Z",
+    "allocations": [
+      { "name": "Presale", "value": 45 },
+      { "name": "Unlocked", "value": 13 },
+      { "name": "Locked", "value": 1.5 },
+      { "name": "Liquidity", "value": 40 },
+      { "name": "Fees", "value": 0.5 }
+    ],
+    "info": {
+      "totalSupply": 10000000000,
+      "networkDetails": "details dummy bla bla",
+      "liquidityLock": "60% ETH raised",
+      "duration": "11 Months",
+      "public": "One to anyone",
+      "totalRaise": "500 ETH",
+      "maxSpendPerAccount": "1.6728 ETH",
+      "presalePrice": 33333333,
+      "listingPrice": 33333333
+    },
+    "tokenTradeDate": "2024-01-6T005:00:36.905Z",
+    "whitepaperUrl": "https://docs.carv.io/",
+    "applicationUrl": "https://carv.io/",
+    "programId": "HQkMZqPiuT9tKaX81z5FBx5Fnujjtu4KbyjFZXCbG2jd",
+    "accountAddress": "DgNpPAH1ae4T3bujQouadtNpouHjoPoh3HcEPmm74wq7",
+    "rpcUrl": "https://api.devnet.solana.com"
+  },
+  "onchainInfo": {
+    "price": 0.1,
+    "priceUnit": "SOL"
+  }
+}
