@@ -1,9 +1,10 @@
 {
   "offchainInfo": {
-    "name": "Agent sale",
+    "name": "Initial Agent Offering",
     "tokenName": "AGENT",
     "saleTokenDecimals": 0,
     "preSaleStartDate": "2025-01-06T04:35:36.905Z",
+    "evmLink": "",
     "allocations": [
       { "name": "Presale", "value": 45 },
       { "name": "Unlocked", "value": 13 },
