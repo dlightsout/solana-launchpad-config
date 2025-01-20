@@ -5,6 +5,7 @@
     "saleTokenDecimals": 0,
     "preSaleStartDate": "2025-01-06T04:35:36.905Z",
     "evmLink": "",
+    "cover": "/images/whitelable/agent/cover.png"
     "allocations": [
       { "name": "Presale", "value": 45 },
       { "name": "Unlocked", "value": 13 },
