@@ -31,7 +31,7 @@
     "applicationUrl": "https://carv.io/",
     "programId": "CwZSnVFThtCdPrpp95L68GsFAjP5ukXMb9pVMKKDeBCV",
     "accountAddress": "7GFE2Yaov2hpu7fkAw7ZHZ3RWcppaRAFn77TkUibBDAd",
-    "rpcUrl": "https://api.devnet.solana.com"
+    "rpcUrl": "https://api.mainnet-beta.solana.com"
   },
   "onchainInfo": {
     "price": 0.1,
