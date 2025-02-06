@@ -29,10 +29,10 @@
     "tokenTradeDate": "2025-01-06T05:00:36.905Z",
     "whitepaperUrl": "https://docs.carv.io/",
     "applicationUrl": "https://carv.io/",
-    "programId": "CwZSnVFThtCdPrpp95L68GsFAjP5ukXMb9pVMKKDeBCV",
-    "accountAddress": "FM9NLWBBPD5dpyTbaayZMww491z1WTrDyfbfz3fehYbn",
+    "programId": "HQkMZqPiuT9tKaX81z5FBx5Fnujjtu4KbyjFZXCbG2jd",
+    "accountAddress": "Fp7Q1M1LwHYT5KksKCHDhsagURBeSMXyWpHPX4GFutZW",
     "WLaccountAddress": "FM9NLWBBPD5dpyTbaayZMww491z1WTrDyfbfz3fehYbn",
-    "rpcUrl": "https://api.mainnet-beta.solana.com"
+    "rpcUrl": "https://api.devnet.solana.com""
   },
   "onchainInfo": {
     "price": 0.1,
