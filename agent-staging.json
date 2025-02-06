@@ -7,7 +7,7 @@
     "evmLink": "https://base.alphagoats.ai/",
     "cover": "/images/whitelable/agent/cover.png",
     "hasEnded": false,
-    "isPublicSale": true,
+    "isPublicSale": false,
     "allocations": [
       { "name": "Presale", "value": 45 },
       { "name": "Unlocked", "value": 13 },
